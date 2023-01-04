@@ -1,0 +1,145 @@
+/*  MAIN SECTION BACKGROUND  */
+
+body{
+  /*  border: 2px solid red; */
+}
+
+/* Linktree Top Profile Section START */
+
+.linktree-logo{
+    height: 60px;
+    width: 195px;
+    margin-top: -100px;
+    margin-left: -170px;
+
+}
+
+
+.top-profile{
+    padding: 100px;
+    padding-left: 175px;
+
+}
+
+.name{
+    padding-left: 455px;
+    margin: -25px;
+
+}
+
+
+.t-profile{
+
+    padding-left: 500px;
+   
+   
+}
+
+.t-profile-pic{
+    height: 150px;
+    width: 150px;
+    border: 3px solid blue;
+    border-radius: 100px;
+     
+}
+
+
+.slogan{
+    padding-left: 340px;
+    color: wheat;
+    font-family: "monospace",Courier New;
+    font-size: 30px;
+    margin: -50px;
+}
+
+
+/* Linktree Top Profile Section END */
+
+
+#linktree{
+    background-image: linear-gradient(to top, #335589, #096b99, #007fa1, #0093a2, #32a59f);
+}
+
+/*  ALL ANCHOR TAG TEXT STYLING  */
+a{
+    text-decoration: none;
+    color: white;
+}
+
+/*  ALL ANCHOR TAG OTHER STYLING  */
+
+.social-media{
+    border: 2px solid blue;
+    border-radius: 15px;
+    margin: 5px;
+    padding: 20px 700px;
+    font-size: 30px;
+    background-color: #43B3C7;
+}
+
+/*  ALL IMAGE TAG STYLING  */
+
+.s-profile{
+    height: 50px;
+    width: 50px;
+    padding: 7px;
+    border: 2px solid greenyellow;
+    border-radius: 50%;
+    align-items: left;
+    margin-bottom: -82px;
+    margin-left: 40px;
+}
+
+#sm-logo{
+    padding: 80px;
+    padding-left: 370px;
+}
+
+
+.s-logo{
+    height: 50px;
+    width: 50px;
+    padding: 15px;
+    border: 1px solid yellow;
+    
+}
+
+
+/*  HOVER SECTION START  */
+
+    /*  Main Body Parts Hover */
+    .social-media:hover{
+        background-color: #0e3c44;
+    }
+
+    /*  Social Media Logo Hover */
+    .s-logo:hover{
+        background-color: rgba(20, 10, 10, 0.618);
+    }
+
+
+/* THIS IS A COMMENT 
+#fb{
+    background-color: blue;
+}
+
+#ig{
+    background-color: blue;
+}
+
+#pin{
+    background-color: blue;
+}
+
+#web{
+    background-color: green;
+}
+
+#tw{
+    background-color: green;
+}
+#li{
+    background-color: green;
+}
+*/
+
